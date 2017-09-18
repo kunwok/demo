@@ -6,6 +6,10 @@ yikan = to fetch
 ngaye nga-bo-yikan - I'm fetching water
 ngaye nga-bo-yikang - I fetched water
 
+or just kan:
+
+nga-bo-kan - I collected water
+
 birrhme = to clean up
 karri-bolk-birrhme
 birri-bolk-birrhmeng
