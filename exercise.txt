@@ -23,4 +23,5 @@ ngun = to eat
 kinga ka-djare ngun-ngun!
 ngune-nguneng  (ngune = you two)
 
-karri-bidyikarrmerren
+bidyikarrme = to lend a helping hand
+karri-bidyikarrmerren = we.incl help each other
